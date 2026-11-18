@@ -1,12 +1,3 @@
-"""
-road_simulation.py
-Full Self Driving Simulation mode in Kigali: ALU Rwanda -> Convention Center
-
-Your job: complete TODO 1 to TODO 10 below (replace each `pass`).
-Do NOT edit engine.py, index.html or transit_program.py.
-Run with:   python road_simulation.py or python3 road_simulation.py
-"""
-
 SEGMENT_M = 100
 ZEBRA_WAIT = 15
 ACCELERATION = 5
@@ -24,7 +15,6 @@ road = [
 ]
 
 
-# ==================== PART 1: CHECK THE SIGN ====================
 
 # TODO 1: Return True only if sign is text AND is "bus", "zebra",
 # or a number from 20 to 100 written as text (e.g. "80"). Otherwise False.
@@ -65,7 +55,6 @@ def get_sign_type(sign):
             return "road"
 
 
-# ==================== PART 2: TAKE ACTION ====================
 
 # TODO 3: If the sign is a speed sign, return its number as an int. Else return current_limit.
 def get_speed_limit(sign, current_limit):
@@ -118,7 +107,6 @@ def count_signs(road_list):
     return (speed_signs, zebras, buses)
 
 
-# ==================== PART 3: SAFE INPUT AND JOURNEY SUMMARY ====================
 
 # TODO 7: Keep asking until the user types a whole number from low to high.
 # Use try/except for text that is not a number. Return the number as an int.

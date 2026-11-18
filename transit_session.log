@@ -405,3 +405,89 @@
 2026-11-17 09:27:20 [OK] Top speed         : 80 km/h
 2026-11-17 09:27:20 [OK] Time stopped      : 28 s
 2026-11-17 09:27:20 [OK] Lane changes      : 6
+
+===== New session started 2026-11-17 09:30:24 =====
+
+===== New session started 2026-11-18 17:24:04 =====
+2026-11-18 17:24:22 [OK] Divine begins the journey at ALU Rwanda!
+2026-11-18 17:24:22 [INFO] Segment 0: sign '60'
+2026-11-18 17:24:23 [INFO] Speed 50 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:24 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:25 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:25 [INFO] Segment 4: sign 'zebra'
+2026-11-18 17:24:25 [WARN] Zebra crossing! Stopping for 15 seconds
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 14s left
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 13s left
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 12s left
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 11s left
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 10s left
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 9s left
+2026-11-18 17:24:26 [INFO] Waiting at the zebra crossing... 8s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 7s left
+2026-11-18 17:24:27 [INFO] Speed 0 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 6s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 5s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 4s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 3s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 2s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 1s left
+2026-11-18 17:24:27 [INFO] Waiting at the zebra crossing... 0s left
+2026-11-18 17:24:28 [INFO] Speed 15 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:29 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:30 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:30 [INFO] Segment 7: sign '80'
+2026-11-18 17:24:30 [INFO] Speed limit changes from 60 to 80 km/h
+2026-11-18 17:24:31 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:33 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:34 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:34 [INFO] Segment 14: sign 'bus'
+2026-11-18 17:24:34 [WARN] Changing lane: RIGHT -> LEFT
+2026-11-18 17:24:35 [WARN] Changing lane: LEFT -> RIGHT
+2026-11-18 17:24:35 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:36 [INFO] Segment 17: sign 'bus'
+2026-11-18 17:24:36 [WARN] Changing lane: RIGHT -> LEFT
+2026-11-18 17:24:36 [INFO] Speed 80 km/h | limit 80 | lane LEFT
+2026-11-18 17:24:37 [WARN] Changing lane: LEFT -> RIGHT
+2026-11-18 17:24:38 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:38 [INFO] Segment 21: sign '60'
+2026-11-18 17:24:38 [INFO] Speed limit changes from 80 to 60 km/h
+2026-11-18 17:24:39 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:40 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:41 [INFO] Speed 60 km/h | limit 60 | lane RIGHT
+2026-11-18 17:24:42 [INFO] Segment 26: sign '80'
+2026-11-18 17:24:42 [INFO] Speed limit changes from 60 to 80 km/h
+2026-11-18 17:24:43 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:44 [INFO] Segment 29: sign 'zebra'
+2026-11-18 17:24:44 [WARN] Zebra crossing! Stopping for 15 seconds
+2026-11-18 17:24:44 [INFO] Speed 20 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:44 [INFO] Waiting at the zebra crossing... 14s left
+2026-11-18 17:24:44 [INFO] Waiting at the zebra crossing... 13s left
+2026-11-18 17:24:44 [INFO] Waiting at the zebra crossing... 12s left
+2026-11-18 17:24:44 [INFO] Waiting at the zebra crossing... 11s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 10s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 9s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 8s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 7s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 6s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 5s left
+2026-11-18 17:24:45 [INFO] Speed 0 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 4s left
+2026-11-18 17:24:45 [INFO] Waiting at the zebra crossing... 3s left
+2026-11-18 17:24:46 [INFO] Waiting at the zebra crossing... 2s left
+2026-11-18 17:24:46 [INFO] Waiting at the zebra crossing... 1s left
+2026-11-18 17:24:46 [INFO] Waiting at the zebra crossing... 0s left
+2026-11-18 17:24:46 [INFO] Speed 25 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:48 [INFO] Speed 75 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:49 [INFO] Speed 80 km/h | limit 80 | lane RIGHT
+2026-11-18 17:24:49 [OK] Arrived at Convention Center in 224 seconds!
+2026-11-18 17:24:50 [OK] ----- TRIP REPORT -----
+2026-11-18 17:24:50 [OK] Driver            : Divine
+2026-11-18 17:24:50 [OK] Started at        : ALU Rwanda
+2026-11-18 17:24:50 [OK] Finished at       : Convention Center
+2026-11-18 17:24:50 [OK] Road length       : 3400 m
+2026-11-18 17:24:50 [OK] Signs passed      : 8
+2026-11-18 17:24:50 [OK] Total time        : 224 s
+2026-11-18 17:24:50 [OK] Average speed     : 54.6 km/h
+2026-11-18 17:24:50 [OK] Top speed         : 80 km/h
+2026-11-18 17:24:50 [OK] Time stopped      : 28 s
+2026-11-18 17:24:50 [OK] Lane changes      : 4
